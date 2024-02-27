@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DinoBabic accounts related to production APIs"
+  message: "Welcome to DinoBabic accounts related to webhook APIs"
   contactDetails:
     name: "Ana prod lead"
     email: "{cipher}48e1877ae88026219bc8568f1c95fc1feed0e73f8e3f031cd33238c13fa2d5edd08d0e8abcc9d1f7c13604f8ffcbc906"
