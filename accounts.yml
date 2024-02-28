@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to DinoBabic accounts related docker APIs"
+  message: "Welcome to DinoBabic accounts related local APIs"
   contactDetails:
     name: "Dino Babic"
     email: "dinobabic@gmail.com"
